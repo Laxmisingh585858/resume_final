@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(229, 246, 246);
+    display: flex;
+   padding-left: 20%;
+   
+}
+.leftdiv{
+    background-color: rgb(117, 108, 108);
+    width: 30%;
+    height: 100vh;
+     padding-left: 7%;
+   padding-top: 30px;
+   
+}
+.rightdiv{
+    background-color: rgb(237, 219, 219);
+    width: 50%;
+    height: 100vh; padding-top: 30px;
+    padding-left: 20px;
+}
+img{
+    border: 2px solid black;
+ 
+ height:300px;
+ width: 300px;  
+  border-radius: 50%;
+
+}
+h4{
+    color: bisque;
+    text-align: center;
+}
+p{
+    color: black;
+    text-align: justify;
+    padding-right: 30px;
+   font-size: 15px;
+}
+h5{
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+
+}
+h1{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 4px;
+ 
+ padding-left: 20px; font-size: 50px;
+}
+h3{
+    
+    padding-left: 20px; font-size: 40px;
+}
+    
